@@ -1,0 +1,11 @@
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\shody.csproj.AssemblyReference.cache
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\App.g.i.cs
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\App.g.cs
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\MainPage.g.i.cs
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\MainPage.g.cs
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\App.xaml
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\MainPage.xaml
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\App.xbf
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\MainPage.xbf
+C:\projekty\uwp\shody\shody\shody\obj\x86\Debug\XamlSaveStateFile.xml
